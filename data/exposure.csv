@@ -1,0 +1,9 @@
+location_id,location_name,latitude,longitude,tiv_usd,construction_class
+LOC01,Savannah,32.08,-81.09,62000000,masonry
+LOC02,Brunswick,31.15,-81.49,41000000,wood-frame
+LOC03,Tybee Island,32.0,-80.85,28000000,wood-frame
+LOC04,Jekyll Island,31.07,-81.41,22000000,masonry
+LOC05,St Marys,30.73,-81.55,33000000,wood-frame
+LOC06,Hilton Head,32.22,-80.75,47000000,masonry
+LOC07,Beaufort,32.43,-80.67,39000000,masonry
+LOC08,Darien,31.37,-81.43,18000000,wood-frame
